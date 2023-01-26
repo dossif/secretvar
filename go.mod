@@ -1,4 +1,4 @@
-module secretvar
+module github.com/dossif/secretvar
 
 go 1.18
 
